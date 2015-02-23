@@ -66,17 +66,17 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca del GDG DEXFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Un track para desarrollo web", image: "conference.jpg", text: "Te acercaremos todo lo relacionado con las nuevas tecnologías web de la mano de los mejores" }
+ - {title: "Un track para el desarrollo Android", image: "workshop.jpg", text: "Porque en Android no es solo hacer una aplicación si no hacer una aplicación de calidad" }
+ - {title: "Torneos y más sorpresas", image: "hackathon.jpg", text: "Futboling electrónico, torneos, !Y la música la pondréis vosotros¡" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Ultimas noticias"
@@ -85,7 +85,7 @@ latestNewsTitle: "Ultimas noticias"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Mira nuestro cartel"
 
 # Location Block
 locationBlockTitle: "Localización"
@@ -100,7 +100,7 @@ eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
 eventPlaceCoordinates: "39,47904040, -6,3427293"
-mapCenterCoordinates: "39,47904040, -6,3427293"
+mapCenterCoordinates: "39.4833, -6.3667"
 mapMobileCenterCoordinates: "39,47904040, -6,3427293"
 
 # Venue Block
