@@ -73,10 +73,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "150", specialCharacter: "+", info: "asistentes", detail: "from everywhere"}
+ - {count: "12", specialCharacter: "+", info: "Horas", detail: "of pure Google technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "2", specialCharacter: "", info: "Tracks paralelos", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Ultimas noticias"
