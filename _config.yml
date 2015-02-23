@@ -147,7 +147,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Agotadas"
  -
-   name: "Estudiante UEx"
+  name: "Estudiante UEx"
   price: "Por determinar"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
@@ -175,7 +175,6 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   soldOut: false
   soldOutText: "Agotadas"
- -
 
 # Footer
 socialLinks:
