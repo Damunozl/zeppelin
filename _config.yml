@@ -100,8 +100,8 @@ eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
 eventPlaceCoordinates: "39,47904040, -6,3427293"
-mapCenterCoordinates: "39.4833, -6.3667"
-mapMobileCenterCoordinates: "39,47904040, -6,3427293"
+mapCenterCoordinates: "39,47904040, -6,3427293"
+mapMobileCenterCoordinates: "39.4833, -6.3667"
 
 # Venue Block
 venueBlockTitle: "Lugar"
@@ -190,7 +190,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgcaceres@gmail.com", text: "gdgcaceres@gmail.com"}
  -
   title: "FAQ"
   links:
