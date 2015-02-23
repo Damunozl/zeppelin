@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/programacion/", text: "Programación"}
- - {permalink: "/ponentes/", text: "Ponentes"}
- - {permalink: "/equipo/", text: "Equipo"}
+ - {permalink: "/schedule/", text: "Programación"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logisticas"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
