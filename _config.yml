@@ -49,15 +49,15 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Información"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Hazte Speaker"}
+ - {link: "http://goo.gl/forms/Ael9Wtg4To", text: "Hazte Speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Hazte speaker"}
+ - {link: "http://goo.gl/forms/Ael9Wtg4To", text: "Hazte speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DEXFest <typeout> 2015"
 eventDate: "Junio 2015"
-typeoutTextValues: '"", "España", "Extremadura", "Cáceres"'
+typeoutTextValues: '"", "Season", "España", "Extremadura", "Cáceres"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Hazte speaker"}
@@ -79,16 +79,16 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Ultimas noticias"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Localización"
+locationBlockTitle: "Location"
 eventLocationName: "Escuela Politécnica"
 eventLocationLink: "http://www.unex.es/conoce-la-uex/centros/epcc"
 eventStreetAddress: "Avda. Universidad S/N"
@@ -99,9 +99,9 @@ eventAddressCountry: "España"
 eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
-eventPlaceCoordinates: "39,47904040, -6,3427293"
-mapCenterCoordinates: "39,47904040, -6,3427293"
-mapMobileCenterCoordinates: "39,47904040, -6,3427293"
+eventPlaceCoordinates: "39,479040400000000000, -6,342729299999974000"
+mapCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
+mapMobileCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
 
 # Venue Block
 venueBlockTitle: "Lugar"
@@ -116,7 +116,7 @@ venueFeatures: ["2 Salas para charlas", "Cafetería", "Localizada a las afueras 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Twitter"
 twitterHashTag: "dexfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -135,11 +135,11 @@ ticketsInfo: "Las entradas dan acceso a todas las charlas del evento."
 ticketsOffers:
  -
   name: "Normal"
-  price: "S/N"
+  price: "Por determinar"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-5%"
-  buyButtonLink: ""
+  buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Comprar"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
@@ -148,12 +148,11 @@ ticketsOffers:
   soldOutText: "Agotadas"
  -
   name: "Estudiante UEx"
-  price: "S/N"
+  price: "Por determinar"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-50%"
-  featured: false
-  buyButtonLink: ""
+  buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Comprar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -163,11 +162,12 @@ ticketsOffers:
   soldOutText: "Agotadas"
  -
   name: "Estudiante (General)"
-  price: "S/N"
+  price: "Por determinar"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-20%"
-  buyButtonLink: ""
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Comprar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -190,7 +190,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgcaceres@gmail.com", text: "gdgcaceres@gmail.com"}
  -
   title: "FAQ"
   links:
