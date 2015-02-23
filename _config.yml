@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Información"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/14XbqIgkxTGmliO2JPYR-0Tbq6ewbWPeEr9wa3tfGftY/viewform", text: "Hazte Speaker"}
+ - {link: "http://goo.gl/forms/TCjJ11a0l4", text: "Hazte Speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/14XbqIgkxTGmliO2JPYR-0Tbq6ewbWPeEr9wa3tfGftY/viewform", text: "Hazte speaker"}
+ - {link: "http://goo.gl/forms/TCjJ11a0l4", text: "Hazte speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,7 +60,7 @@ eventDate: "Junio 2015"
 typeoutTextValues: '"", "España", "Extremadura", "Cáceres"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/14XbqIgkxTGmliO2JPYR-0Tbq6ewbWPeEr9wa3tfGftY/viewform", text: "Hazte speaker"}
+ - {link: "http://goo.gl/forms/TCjJ11a0l4", text: "Hazte speaker"}
  - {permalink: "/#tickets", text: "Compra tu entrada"}
 
 # About Block
