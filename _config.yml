@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Cáceres 2015"
+title: "GDG DEXFest Cáceres 2015"
 email: "gdgcaceres@gmail.com"
-description: "GDG DevFest de Cáceres es uno de los muchos eventos que Google organiza por todo el mundo."
+description: "GDG DEXFest de Cáceres es uno de los muchos eventos que Google organiza por todo el mundo."
 baseurl: "/zeppelin"
 url: "http://"
 permalink: "/blog/:title"
@@ -26,7 +26,7 @@ organizerAlternateName: "Google Developer Group Cáceres"
 organizerDescription: "Comunidad de desarrolladores entusiastas que desarrolla todo tipo de proyectos con tecnologías Google."
 organizerEmail: "gdgcaceres@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/110029291185137285136/posts"
+organizerLink: ""
 
 # Head
 metaKeywords: "evento, gdg, devfest, google, programacion, android, chrome, desarroladores, caceres, web"
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -116,7 +116,7 @@ venueFeatures: ["2 Salas para charlas", "Cafetería", "Localizada a las afueras 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Twitter"
 twitterHashTag: "dexfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"
