@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DEXFest <typeout> 2015"
 eventDate: "Junio 2015"
-typeoutTextValues: '"", "Season", "España", "Extremadura", "Cáceres"'
+typeoutTextValues: '"", "España", "Extremadura", "Cáceres"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Hazte speaker"}
@@ -79,16 +79,16 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Ultimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Localización"
 eventLocationName: "Escuela Politécnica"
 eventLocationLink: "http://www.unex.es/conoce-la-uex/centros/epcc"
 eventStreetAddress: "Avda. Universidad S/N"
@@ -99,9 +99,9 @@ eventAddressCountry: "España"
 eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
-eventPlaceCoordinates: "39,479040400000000000, -6,342729299999974000"
-mapCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
-mapMobileCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
+eventPlaceCoordinates: "39,47904040, -6,3427293"
+mapCenterCoordinates: "39,47904040, -6,3427293"
+mapMobileCenterCoordinates: "39,47904040, -6,3427293"
 
 # Venue Block
 venueBlockTitle: "Lugar"
@@ -135,11 +135,11 @@ ticketsInfo: "Las entradas dan acceso a todas las charlas del evento."
 ticketsOffers:
  -
   name: "Normal"
-  price: "Por determinar"
+  price: "S/N"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Comprar"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
@@ -148,11 +148,12 @@ ticketsOffers:
   soldOutText: "Agotadas"
  -
   name: "Estudiante UEx"
-  price: "Por determinar"
+  price: "S/N"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-50%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  featured: false
+  buyButtonLink: ""
   buyButtonText: "Comprar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -162,12 +163,11 @@ ticketsOffers:
   soldOutText: "Agotadas"
  -
   name: "Estudiante (General)"
-  price: "Por determinar"
+  price: "S/N"
   priceCurrency: "EUR"
   ticketsNumber: "Por determinar"
   ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Comprar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
