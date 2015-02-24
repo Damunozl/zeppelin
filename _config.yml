@@ -100,8 +100,8 @@ eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
 eventPlaceCoordinates: "39,479040400000000000, -6,342729299999974000"
-mapCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
-mapMobileCenterCoordinates: "39,479040400000000000, -6,342729299999974000"
+mapCenterCoordinates: "39,479040300000000000, -6,342729299999874000"
+mapMobileCenterCoordinates: "39,479050400000000000, -6,342729299991074000"
 
 # Venue Block
 venueBlockTitle: "Lugar"
