@@ -31,12 +31,12 @@ organizerLink: ""
 # Head
 metaKeywords: "evento, gdg, devfest, google, programacion, android, chrome, desarroladores, caceres, web"
 twitterAccount: "@GDGCaceres"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/Logo-evento.png"
+socialImageSrcTwitter: "/img/seo/Logo-evento.png"
+socialImageSrcFacebook: "/img/seo/Logo-evento.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: ""
 c4sponsorsUrl: ""
 
 
@@ -185,7 +185,6 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
