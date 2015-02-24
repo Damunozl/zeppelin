@@ -1,5 +1,5 @@
 - 
-  group: "Main organizer"
+  group: ""
   elements: 
     - {name: "GDG Cáceres", description: "Grupo desarrolladores Google Cáceres", link: "https://plus.google.com/u/0/110029291185137285136/posts", imageUrl: "gdgCaceres.png"}
     - {name: "Google", description: "", link: "https://plus.google.com/u/0/+google/posts", imageUrl: "google.svg"}
