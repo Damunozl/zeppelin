@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DEXFest Cáceres 2015"
 email: "gdgcaceres@gmail.com"
-description: "GDG DEXFest de Cáceres es uno de los muchos eventos que Google organiza por todo el mundo."
+description: "GDG DEXFest de Cáceres es uno de los muchos eventos que los grupos de desarrolladores google organiza por todo el mundo."
 baseurl: "/zeppelin"
 url: "http://"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Cáceres"
 organizerAlternateName: "Google Developer Group Cáceres"
-organizerDescription: "Comunidad de desarrolladores entusiastas que desarrolla todo tipo de proyectos con tecnologías Google."
+organizerDescription: "Comunidad de desarrolladores con la que se busca una formación contnua en las nuevas tecnologías en especial de Google."
 organizerEmail: "gdgcaceres@gmail.com"
 organizerLogo: "/img/seo/Logo-evento.png"
 organizerLink: ""
@@ -43,11 +43,11 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programación"}
- - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "//", text: "Blog"}
+ - {permalink: "//", text: "Programación"}
+ - {permalink: "//", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Información"}
+ - {permalink: "//", text: "Información"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/TCjJ11a0l4", text: "Hazte Speaker"}
 rightNavigationButtons:
@@ -99,7 +99,7 @@ eventAddressCountry: "España"
 eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-10-25T20:00"
-eventPlaceCoordinates: "39,47904040, -6,3427293"
+eventPlaceCoordinates: "39.4833, -6.3667"
 mapCenterCoordinates: "39,47904040, -6,3427293"
 mapMobileCenterCoordinates: "39.4833, -6.3667"
 
